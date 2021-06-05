@@ -1,16 +1,10 @@
 # tabbar_example
 
-A new Flutter project.
+여러 페이지 만들고 탭바로 화면 이동하기
 
-## Getting Started
+## 스크린샷
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 첫 번째 페이지
+  - ![screenshot_first](https://user-images.githubusercontent.com/4813025/120897008-10253a00-c65f-11eb-97e7-4bdffda8c9ef.png)
+- 두 번째 페이지
+  - ![screenshot_second](https://user-images.githubusercontent.com/4813025/120897014-19160b80-c65f-11eb-9b97-1b32557785b9.png)
